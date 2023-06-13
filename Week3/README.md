@@ -1,4 +1,4 @@
-## Week3
+## Week 3
 ### Outline
 * Permuting Two Arrays
 * Subarray Division 2
